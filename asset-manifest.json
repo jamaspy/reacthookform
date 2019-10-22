@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reacthookform/static/css/main.621886ed.chunk.css",
+    "main.js": "/reacthookform/static/js/main.e31b3c50.chunk.js",
+    "main.js.map": "/reacthookform/static/js/main.e31b3c50.chunk.js.map",
+    "runtime-main.js": "/reacthookform/static/js/runtime-main.88f9c1fe.js",
+    "runtime-main.js.map": "/reacthookform/static/js/runtime-main.88f9c1fe.js.map",
+    "static/js/2.d98cc17f.chunk.js": "/reacthookform/static/js/2.d98cc17f.chunk.js",
+    "static/js/2.d98cc17f.chunk.js.map": "/reacthookform/static/js/2.d98cc17f.chunk.js.map",
+    "index.html": "/reacthookform/index.html",
+    "precache-manifest.57fce24c00d90998b5d559db30ff4a1f.js": "/reacthookform/precache-manifest.57fce24c00d90998b5d559db30ff4a1f.js",
+    "service-worker.js": "/reacthookform/service-worker.js",
+    "static/css/main.621886ed.chunk.css.map": "/reacthookform/static/css/main.621886ed.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88f9c1fe.js",
+    "static/js/2.d98cc17f.chunk.js",
+    "static/css/main.621886ed.chunk.css",
+    "static/js/main.e31b3c50.chunk.js"
+  ]
+}
